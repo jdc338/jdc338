@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdc338" alt="jdc338" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **likeminded individuals who want to further their learning**
 
 - 🤝 I’m looking for help with **my next project!**
-
-- 👨‍💻 All of my projects are available at [TBC!](TBC!)
 
 - 💬 Ask me about **Ruby on Rails**
 
