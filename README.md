@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdc338" alt="jdc338" /></a> </p>
 
-- ⚡ I am looking for **a Junior Full Stack Developer Role
+- ⚡ I am looking for **my first Junior Full Stack Developer Role!**
 
 - 🌱 I’m currently learning **React**
 
