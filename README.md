@@ -7,7 +7,7 @@
 
 - ⚡ I am looking for **my first Full Stack Developer Role!**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate with **likeminded individuals who want to further their learning**
 
