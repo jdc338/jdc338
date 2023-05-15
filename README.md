@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdc338" alt="jdc338" /></a> </p>
 
-- ⚡ I am looking for **my first Full Stack Developer Role!**
-
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate with **likeminded individuals who want to further their learning**
