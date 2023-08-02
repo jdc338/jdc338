@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **likeminded individuals who want to further their learning**
 
-- 🤖 Another passion of mine is **digital assets and distributed ledger technology, having spent 2 years in this space**
+- 🤖 Another passion of mine is **digital asset and distributed ledger technology, having spent 2 years in the space**
 
 - 📫 How to reach me: **james.corfe@gmail.com**
 
