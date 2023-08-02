@@ -11,7 +11,7 @@
 
 - 🤖 Another big passion of mine is **digital assets and distributed ledger technology, having spent 2 years in this space**
 
-- 📫 How to reach me **james.corfe@gmail.com**
+- 📫 How to reach me: **james.corfe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
